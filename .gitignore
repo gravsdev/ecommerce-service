@@ -1,0 +1,9 @@
+# Editor
+.vscode/
+
+# Dependencias
+node_modules/
+*lock.yaml
+
+# Otros
+*.env
